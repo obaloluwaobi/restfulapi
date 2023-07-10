@@ -1,6 +1,20 @@
 # restfulapi
 
-A new Flutter project.
+dummypost REST API App
+
+This REST API app allows users to access post data in a secure and easy-way
+images
+[Screenshot_20230710-200634](https://github.com/obaloluwaobi/restfulapi/assets/101903208/673eed91-2b77-4ca7-9fad-244fbdda0aec)
+![Screenshot_20230709-150603](https://github.com/obaloluwaobi/restfulapi/assets/101903208/33632b85-fb3e-40c4-b902-9b471ac7da13)
+o-use way. 
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
