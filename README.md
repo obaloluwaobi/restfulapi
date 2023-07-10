@@ -4,16 +4,13 @@ dummypost REST API App
 
 This REST API app allows users to access post data in a secure and easy-way
 images
-(https://github.com/obaloluwaobi/restfulapi/assets/101903208/673eed91-2b77-4ca7-9fad-244fbdda0aec)
-
-[Screenshot_20230709-150603](https://github.com/obaloluwaobi/restfulapi/assets/101903208/33632b85-fb3e-40c4-b902-9b471ac7da13)
 
 
+![Screenshot_20230710-200634](https://github.com/obaloluwaobi/restfulapi/assets/101903208/c923b5d2-a7d6-49bb-93ad-b9275a2e0e8a)
 
 
 
-
-
+![Screenshot_20230709-150603](https://github.com/obaloluwaobi/restfulapi/assets/101903208/c7e42ecc-a6bb-491e-bde2-da971646bb07)
 
 
 
